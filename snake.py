@@ -22,7 +22,7 @@ pygame.display.set_caption('Joc cu Sarpe')
 clock = pygame.time.Clock()
 
 snake_block = 10
-snake_speed = 15
+snake_speed = 20
 
 
 font_style = pygame.font.SysFont(None, 50)
